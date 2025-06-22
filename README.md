@@ -10,4 +10,4 @@ Basic form validation (checks if a conversion type is selected)
 # Technologies Used
 HTML5
 CSS3
-JavaScript (Vanilla
+JavaScript
